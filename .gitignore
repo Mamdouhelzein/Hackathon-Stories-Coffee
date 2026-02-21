@@ -215,4 +215,5 @@ data/processed/
 data/raw/
 data/processed/
 data/raw_original/
-data/processed_backup/
+data/processed_backup/\
+.DS_Store
