@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# --- Hackathon (do not upload provided data) ---
+data/raw/
+data/processed/
+
+# (optional) keep exported reports out if you want, but usually keep reports
+# reports/figures/
+# Hackathon data (do not upload)
+data/raw/
+data/processed/
