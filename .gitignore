@@ -214,3 +214,4 @@ data/processed/
 # Hackathon data (do not upload)
 data/raw/
 data/processed/
+data/raw_original/
