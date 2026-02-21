@@ -4,7 +4,7 @@
 Stories Coffee wants to understand what drives **revenue and profit** across branches and product groups, and what actions can improve overall performance.
 
 ## Deliverables (what to read first)
-- **Executive Summary (PDF, ≤ 2 pages):** `reports/executive_summary.pdf`
+- **Executive Summary (PDF, ≤ 2 pages):** `reports/Stories Coffee executive summary.pdf`
 - **Main analysis notebook:** `notebooks/` (run the EDA notebooks)
 
 ## What’s in this repo
@@ -22,7 +22,7 @@ Stories Coffee wants to understand what drives **revenue and profit** across bra
 
 ## Key findings & visuals
 See the full findings and charts in:
-- `reports/executive_summary.pdf`
+- `reports/Stories Coffee executive summary.pdf`
 - `reports/figures/`
 
 ## How to reproduce (local)
